@@ -1,8 +1,8 @@
-# Ambiente
+# Ardeidae
 
 Esboço da interface de uma plataforma colaborativa para monitoramento da qualidade do ar e da água.
 
-![Ambiente](assets/github/ambiente.gif)
+![Ardeidae](assets/github/ambiente.gif)
 
 ## Desenvolvimento
 
