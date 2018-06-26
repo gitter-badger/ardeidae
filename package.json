@@ -1,0 +1,38 @@
+{
+  "name": "ambiente",
+  "version": "0.0.1",
+  "description": "Interface de uma plataforma colaborativa para monitoramento da qualidade do ar e da água.",
+  "main": "index.html",
+  "directories": {
+    "example": "root"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dirceupj/ambiente.git"
+  },
+  "keywords": [
+    "qualidade da água",
+    "qualidade do ar"
+  ],
+  "author": "Dirceu Pauka Júnior (dirceuu@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dirceupj/ambiente"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-install": "^1.1.0",
+    "gulp-open": "^3.0.1",
+    "gulp-sass": "^4.0.1",
+    "gulp-sourcemaps": "^2.6.4"
+  },
+  "homepage": "http://github.com/dirceupj/ambiente",
+  "dependencies": {
+    "material-dashboard": "^2.1.0"
+  }
+}

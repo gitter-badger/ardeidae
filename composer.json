@@ -1,0 +1,13 @@
+{
+    "name": "dirceupj/ambiente",
+    "description": "Interface de uma plataforma colaborativa para monitoramento da qualidade do ar e da água",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dirceu Pauka Júnior",
+            "email": "dirceuu@gmail.com"
+        }
+    ],
+    "require": {}
+}
