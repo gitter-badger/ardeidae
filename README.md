@@ -1,5 +1,7 @@
 # Ardeidae
 
+[![Join the chat at https://gitter.im/ardeidae-chat/Lobby](https://badges.gitter.im/ardeidae-chat/Lobby.svg)](https://gitter.im/ardeidae-chat/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Esboço da interface de uma plataforma colaborativa para monitoramento da qualidade do ar e da água.
 
 ![Ardeidae](assets/github/ambiente.gif)
